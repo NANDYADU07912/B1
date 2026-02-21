@@ -1,0 +1,5 @@
+{
+    "name": "postmaker bot",
+    "description": "Telegram bot for post maker",
+    "stack": "container"
+}
